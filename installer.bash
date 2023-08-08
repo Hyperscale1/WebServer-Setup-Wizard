@@ -1,8 +1,4 @@
 # Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
 
 RED='\033[0;31m'
 CYAN='\033[0;36m'
@@ -81,7 +77,3 @@ then
     echo -e "${RED}Please restart the installer and select the correct node version.${NC}"
     exit
 fi
-# Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
-# Made By Luca https://github.com/Hyperscale1
