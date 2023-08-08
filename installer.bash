@@ -33,7 +33,7 @@ then
     fi
     echo -e "${PURPLE}Installing NGINX${NC}"
     sleep 5
-    sudo sudo apt update -y
+    sudo apt update -y
     sudo apt install nginx -y
     if [ $? -eq 0 ]; then
         echo -e "${CYAN}NGINX has successfully installed${NC}"
