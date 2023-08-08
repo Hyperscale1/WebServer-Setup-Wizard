@@ -53,7 +53,7 @@ then
     
 
     if [ $? -eq 0 ]; then
-        echo -e "${CYAN}MYSQL has successfully installed without a password.${NC}"
+        echo -e "${CYAN}MYSQL has successfully installed.${NC}"
     else
         echo -e "${RED}MYSQL failed to install${NC}"
         exit
