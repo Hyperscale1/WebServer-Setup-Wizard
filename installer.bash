@@ -1,4 +1,5 @@
 # Made By Luca https://github.com/Hyperscale1
+# Discord _hyperscale
 
 RED='\033[0;31m'
 CYAN='\033[0;36m'
